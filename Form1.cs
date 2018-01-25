@@ -15,5 +15,7 @@ namespace Buoi2
         {
             InitializeComponent();
         }
+
+  
     }
 }
